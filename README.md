@@ -15,7 +15,7 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
 * Upon finished, two figures will show up. 
   The first figure shows the time evolution of the kinetic, potential, and total energies.
   The second figure shows the relative fluctuations of the total energy, 
-  which is of the order of 1.0e-5, indicating good energy conservation.
+  which are of the order of 1.0e-5, indicating good energy conservation.
 
 ## Contact
 
