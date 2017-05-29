@@ -30,6 +30,15 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
   * initialize_velocity.m
   * find_neighbor.m
   * find_force_vectorized.m
+  
+## Unit system
+
+* I use the following basic units:
+  * Length: Angstrom
+  * Mass: amu (atomic mass unit)
+  * Energy: eV
+  
+* Other units are then derived.
 
 ## Running the examples
 
