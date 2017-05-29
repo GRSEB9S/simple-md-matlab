@@ -19,11 +19,16 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
 
 * The "test_md_vectorized.m" script calls the "md_vectorized" function in the "md_vectorized.m" file.
 
-* Both the "md" function and the "md_vectorized" function call the functions in the following files:
+* The "md" function calls the functions in the following files:
   * initialize_position.m
   * initialize_velocity.m
   * find_neighbor.m
   * find_force.m
+  
+* The "md_vectorized" function calls the functions in the following files:
+  * initialize_position.m
+  * initialize_velocity.m
+  * find_neighbor.m
   * find_force_vectorized.m
 
 ## Running the examples
