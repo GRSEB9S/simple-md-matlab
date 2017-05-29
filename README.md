@@ -3,8 +3,8 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
 
 ## Features
 
-* A small but complete MD code
-* Contains two versions of the force-evaluation function, "find_force" and "find_force_vectorized".
+* This is small but working MD code, which is particularly useful to beginners.
+* It contains two versions of the force-evaluation function, "find_force" and "find_force_vectorized".
   In the latter, the calculations of the pair forces between one atom and its neighboring atoms are vectorized.
   It turns out that the vectorized version is about 3 times as fast as the normal version. 
 
