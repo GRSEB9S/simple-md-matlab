@@ -37,6 +37,7 @@ A 100-line MATLAB implementation of molecular dynamics (MD) simulations with the
   * Length: Angstrom
   * Mass: amu (atomic mass unit)
   * Energy: eV
+  * Temperature: K
   
 * Other units are then derived.
 
